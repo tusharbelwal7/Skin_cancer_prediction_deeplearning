@@ -1,6 +1,6 @@
 # Skin_cancer_prediction_deeplearning
 This project involves developing a Convolutional Neural Network (CNN) model to classify skin cancer images into benign and malignant categories. The model achieved an accuracy of 90%.
-#Introduction
+# Introduction
 Skin cancer is one of the most common types of cancer. Early detection and diagnosis are crucial for effective treatment. This project aims to leverage deep learning techniques to build a CNN model that can accurately classify skin lesions as benign or malignant.
 
 #Dataset
